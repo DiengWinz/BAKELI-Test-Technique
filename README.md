@@ -1,6 +1,4 @@
-Voici votre markdown initial mis à jour avec les détails de la base de données présentés sous forme de tableau :
 
-```markdown
 # Analyse du Comportement des Clients 📊
 
 Ce projet vise à étudier le comportement des clients d'une entreprise en analysant différents attributs et à classer les clients dans des catégories afin d'aider l'entreprise à prendre des décisions économiques et stratégiques plus éclairées pour conserver et attirer plus de clients à moindre coût. 💡
@@ -71,4 +69,3 @@ Le jeu de données utilisé dans ce projet contient des informations sur les cli
 
 Vous pouvez télécharger le dataset à partir du lien suivant :
 [Dataset](https://drive.google.com/file/d/10VREJosWMuFSPrG4lkkTaZVu58rioiY-/view?usp=drive_link)
-```
