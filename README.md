@@ -1,4 +1,3 @@
-
 # Analyse du Comportement des Clients 📊
 
 Ce projet vise à étudier le comportement des clients d'une entreprise en analysant différents attributs et à classer les clients dans des catégories afin d'aider l'entreprise à prendre des décisions économiques et stratégiques plus éclairées pour conserver et attirer plus de clients à moindre coût. 💡
@@ -34,9 +33,10 @@ L'objectif principal de ce projet est de :
 - Matplotlib 📊
 - Seaborn 🌊
 - Power BI 💻
+- Plotly 📊
+- Dash 🚀
 - Scipy 📈
 - Statsmodels 📊
-- Plotly et Dash
 
 ## Dataset 📊
 
@@ -70,3 +70,9 @@ Le jeu de données utilisé dans ce projet contient des informations sur les cli
 
 Vous pouvez télécharger le dataset à partir du lien suivant :
 [Dataset](https://drive.google.com/file/d/10VREJosWMuFSPrG4lkkTaZVu58rioiY-/view?usp=drive_link)
+
+## Tableau de Bord Interactif 📈
+
+![Tableau de Bord](tableau_de_bord.png)
+
+Ci-dessus se trouve un tableau de bord interactif créé avec Plotly et Dash. Vous pouvez y accéder en cliquant sur l'image.
