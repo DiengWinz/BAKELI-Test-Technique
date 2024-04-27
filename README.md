@@ -36,6 +36,7 @@ L'objectif principal de ce projet est de :
 - Power BI 💻
 - Scipy 📈
 - Statsmodels 📊
+- Plotly et Dash
 
 ## Dataset 📊
 
