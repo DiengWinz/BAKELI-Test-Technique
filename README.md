@@ -16,7 +16,7 @@ L'objectif principal de ce projet est de :
 - **Dataset**: Un lien vers le jeu de données utilisé pour l'analyse.
 - **Code**: Tout le code utilisé pour l'analyse des données, y compris les scripts Python.
 - **Rapport**: Un rapport détaillé sur les résultats de l'analyse, y compris les catégories de clients identifiées et les recommandations stratégiques.
-- **Tableau de Bord Interactif**: Un tableau de bord interactif créé avec Excel ou Power BI pour visualiser les KPI. 📈
+- **Tableau de Bord Interactif**: Un tableau de bord interactif créé avec Plotly et Dash pour visualiser les KPI. 📈
 
 ## Utilisation 🛠️
 
